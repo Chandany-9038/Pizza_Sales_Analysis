@@ -1,2 +1,5 @@
-Designed dashboard with slicers and filters, helping stakeholders to visualize various aspects of pizza sales data to gain
-insights and understand key trends.
+•	Built interactive dashboards using slicers and filters to analyze sales trends.
+•	Analyzed daily and hourly order patterns to identify peak demand periods.
+•	Identified top 5 and bottom 5 pizzas by sales volume to support product strategy.
+•	Derived insights showing higher weekend sales and strong contribution from large-size pizzas
+
